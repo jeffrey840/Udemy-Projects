@@ -2,23 +2,23 @@
 
 :root {
     --line-border-fill: #3498db;
-    --line-border-empty:#e0e0e0 ;
+    --line-border-empty: #383838;
+
 }
 
 * {
     box-sizing: border-box;
 }
 
-
 body {
+    background-color: #1f1f1f;
     font-family: 'Muli', sans-serif;
-    margin: 0;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
     overflow: hidden;
-    background-color:#f6f7fb ;
+    margin: 0;
 }
 
 .container {
@@ -35,33 +35,32 @@ body {
 }
 
 .progress-container::before {
-    content:'' ;
+    content: '';
     background-color: var(--line-border-empty);
-    position:absolute;
-    top:50%;
-    left:0;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
     height: 4px;
     width: 100%;
-    transform: translateY(-50%);
     z-index: -1;
 }
 
 .progress {
     background-color: var(--line-border-fill);
-    position:absolute;
-    top:50%;
-    left:0;
-    height: 4px;
-    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 0;
     transform: translateY(-50%);
+    height: 4px;
+    width: 0%;
     z-index: -1;
-    transition: .4s ease;
+    transition: 0.4s ease;
 }
 
 .circle {
-
-    background-color: white;
-    color: grey;
+    background-color: #1f1f1f;
+    color:#e2e2e2;
     border-radius: 50%;
     height: 30px;
     width: 30px;
@@ -69,18 +68,17 @@ body {
     align-items: center;
     justify-content: center;
     border: 3px solid var(--line-border-empty);
-    transition: .4s ease;
+    transition: 0.4s ease;
 }
 
-circle.active{
-border-color: var(--line-border-fill)
-
+.circle.active {
+    border-color: var(--line-border-fill);
 }
 
 .btn {
     background-color: var(--line-border-fill);
-    color: white;
-    border:0;
+    color: #fff;
+    border: 0;
     border-radius: 6px;
     cursor: pointer;
     font-family: inherit;
@@ -99,5 +97,5 @@ border-color: var(--line-border-fill)
 
 .btn:disabled {
     background-color: var(--line-border-empty);
-    cursor:not-allowed;
+    cursor: not-allowed;
 }
