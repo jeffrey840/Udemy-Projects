@@ -25,6 +25,7 @@ body {
     transform: rotate(-20deg);
 }
 
+/*CIRCLE*/
 .circle-container {
     position: fixed;
     top: -100px;
@@ -70,6 +71,7 @@ body {
     transform-origin: top left;
 }
 
+/*NAV*/
 .container.show-nav + nav li {
     transform: translateX(0);
     transition-delay: 0.3s;
@@ -121,6 +123,7 @@ nav a:hover {
     font-weight: bold;
 }
 
+/*CONTENT*/
 .content img {
     max-width: 100%;
 }
