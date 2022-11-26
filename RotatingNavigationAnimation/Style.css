@@ -24,8 +24,6 @@ body {
 
 .container.show-nav {
     transform: rotate(-20deg);
-
-
 }
 
 .circle-container {
@@ -41,8 +39,10 @@ body {
     border-radius: 50%;
     position: relative;
     transition: transform 0.5s linear;
+}
 
-
+.container.show-nav .circle{
+    transform: rotate(-70deg);
 }
 
 .circle button {
@@ -55,7 +55,6 @@ body {
     border: 0;
     font-size: 26px;
     color: white;
-
 }
 
 .circle button:focus {
