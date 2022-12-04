@@ -1,9 +1,10 @@
-
 const ratings = document.querySelectorAll('.rating')
-const sendBtn = document.querySelectorAll('#send')
-const panel = document.querySelectorAll('#panel')
+const ratingsContainer = document.querySelector('.ratings-container')
+const sendBtn = document.querySelector('#send')
+const panel = document.querySelector('#panel')
+let selectedRating = 'Satisfied'
 
-//event bubbling
+
 ratingsContainer.addEventListener('click', (e) => {
 	if(e.target.parentNode.classList.contains('rating') && e.target.nextElementSibling) {
 		removeActive()
@@ -21,6 +22,7 @@ ratingsContainer.addEventListener('click', (e) => {
 
 })
 
+//After user submits this will be returned to the user
 sendBtn.addEventListener('click', (e) => {
 	panel.innerHTML = `
         <i class="fas fa-heart"></i>
@@ -31,24 +33,9 @@ sendBtn.addEventListener('click', (e) => {
     `
 })
 
+
 function removeActive() {
 	for(let i = 0; i < ratings.length; i++) {
 		ratings[i].classList.remove('active')
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

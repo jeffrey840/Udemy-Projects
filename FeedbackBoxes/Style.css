@@ -4,35 +4,33 @@
     box-sizing: border-box;
 }
 
-
 body {
+    background-color: #fef9f2;
     font-family: 'Montserrat', sans-serif;
-    margin: 0;
-    display:flex;
-background-color: #fef9f2;
+    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
     overflow: hidden;
+    margin: 0;
 }
 
 .panel-container {
-    background-color: white;
-    box-shadow: 0 0 10px rgba(0,0,0,0.3) ;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     border-radius: 4px;
     font-size: 90%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     padding: 30px;
     max-width: 400px;
-    text-align: center;
 }
 
 .panel-container strong {
     line-height: 20px;
-
 }
 
 .ratings-container {
@@ -43,13 +41,14 @@ background-color: #fef9f2;
 .rating {
     flex: 1;
     cursor: pointer;
-    padding:20px;
+    padding: 20px;
     margin: 10px 5px;
 }
 
-.rating:hover, .rating:active {
-    border-radius:4px ;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+.rating:hover,
+.rating.active {
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .rating img {
@@ -62,7 +61,8 @@ background-color: #fef9f2;
     margin: 10px 0 0;
 }
 
-.rating:hover small, .rating:active small {
+.rating:hover small,
+.rating.active small {
     color: #111;
 }
 
@@ -79,7 +79,7 @@ background-color: #fef9f2;
     outline: 0;
 }
 
-.btn:active{
+.btn:active {
     transform: scale(0.98);
 }
 
@@ -88,5 +88,3 @@ background-color: #fef9f2;
     font-size: 30px;
     margin-bottom: 10px;
 }
-
-
