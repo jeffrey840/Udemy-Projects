@@ -29,6 +29,83 @@ This is a repository for Udemy Projects as part of the "50 Projects in 50 days -
 |----|---|-------|-----|
 | <video src="https://user-images.githubusercontent.com/106411997/209892767-67f4a6e1-6389-4686-9514-8cfd03427538.mov">| <video src="https://user-images.githubusercontent.com/106411997/209892771-7338e8c1-1386-4415-9fba-7240a172f499.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892774-ec0f037f-1510-4964-8ae7-d94cef5d4e7c.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892780-b1b6ee18-c5da-44e4-bfa3-ab17c90de947.mov"> |
 
+<br>
+
+| image<br>carousal | catch the<br>insect  | kinetic<br>loader | mobile nav<br>tab |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209904421-ebf85db9-bf6d-43f0-91c1-dff93f44ed60.mov">| <video src="https://user-images.githubusercontent.com/106411997/209904432-f13c7748-e18d-41db-83a5-27657667e881.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209904439-cf2b599f-fcf4-4d2d-8e96-de124ab0a0ad.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209904444-17edbd4f-653c-41ef-ae19-ae15abd99b3c.mov"> |
+
+<br>
+
+| movie App | netflix<br>mobile tab  | notes <br>app | password<br>generator |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209904449-1aed3711-8ddf-499c-b783-f3e97738d4ff.mov">| <video src="https://user-images.githubusercontent.com/106411997/209904754-64e64a99-d33c-475d-a5ec-4cd211698cf7.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209904759-ccdf37a1-10a0-49e3-8418-a820d82db147.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209904762-91a39984-bea9-4382-bff7-5bb2673b2cbe.mov"> |
+
+<br>
+
+| password<br>strength | pokedex  | progress<br>steps | quiz app |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209904972-5bc9af1e-2082-4452-99d3-3c5f8e11f125.mov">| <video src="https://user-images.githubusercontent.com/106411997/209904980-201c4a40-138d-4e0c-8d62-732ecad0ea46.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209904991-603cf767-573b-48f1-bef5-2c26a4de1a1c.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209905014-a2bf281b-6412-45a5-88a9-361eeb9ca888.mov"> |
+
+<br>
+
+| range<br>choice<br>picker | random<br>image<br>feed  | custom<br>range<br>slider | rotating<br>nav |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209905261-60c86f1d-ed1f-4f0c-8cf4-32ec1df20b54.mov">| <video src="https://user-images.githubusercontent.com/106411997/209905270-68da70b4-5cc3-4935-9d4d-22679bd74114.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209905273-f1e897ff-9fd0-44cf-aa26-10ec29d6ff89.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209905284-9ddd2ff0-eb3e-4a41-a50c-c74dee7cb65e.mov"> |
+
+<br>
+
+| scroll<br>animation | sound<br>board  | split landing<br>page | sticky<br>nav |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209905532-f367686e-497b-4e95-bab9-c79cc1bec59d.mov">| <video src="https://user-images.githubusercontent.com/106411997/209905540-cafc5de2-dd20-4c31-81e2-972b38f4bc7b.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209905545-4c20b855-2398-45e1-9ea3-909106550882.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209905546-9e811c5e-6a9c-45f7-91e1-d1a5e4cb2b26.mov"> |
+
+<br>
+
+| form input<br>wave | testimonial<br>box  | theme<br>clock | toast<br>notification |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209905777-d01a442a-cdf2-4b41-aa6d-4b3f817db1d6.mov">| <video src="https://user-images.githubusercontent.com/106411997/209905782-10d081a6-c551-4adf-967c-8a5faadfdd41.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209905788-e46c5450-a1b9-4d24-8979-8d67d4cd1640.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209905795-5d1b2a22-9962-450a-997f-f03f26251436.mov"> |
+
+<br>
+
+| to do <br>list | live user<br>filter  | verify<br>account | water<br>fountain |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209906026-4215f535-3b9f-4887-8903-f58f9f4e5cdd.mov">| <video src="https://user-images.githubusercontent.com/106411997/209906032-3d33b98a-868a-429f-be9e-acafb01ab5a5.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209906041-75dc7ea2-b833-4061-ba1e-cc3dbed40a6b.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209906045-9f4d02f8-2569-4442-9912-f66370d0576d.mov"> |
+
+
+<br>
+
+| 3d boxes | blurryload |
+|----|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209906329-fd33a826-02ea-4866-af85-e3dc865a2b78.mov">| <video src="https://user-images.githubusercontent.com/106411997/209906331-363c5bf4-db83-42b5-bcdd-1e45a4b79f26.mov"> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
