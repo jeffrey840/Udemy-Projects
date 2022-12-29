@@ -13,49 +13,28 @@ This is a repository for Udemy Projects as part of the "50 Projects in 50 days -
 
 <br>
 
-| button ripple<br> effect | placeholder  | counter | dad jokes |
+| double click<br>heart | double vertical<br>slider  | drag & <br>drop | drawing pad|
 |----|---|-------|-----|
 | <video src="https://user-images.githubusercontent.com/106411997/209892566-a89ac900-6f3f-4905-926c-300d25f27b10.mov">| <video src="https://user-images.githubusercontent.com/106411997/209892569-47350aa0-184f-4866-9216-ac652de1e20b.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892574-f7defd02-d9c7-4523-b498-6c9d1728df03.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892577-2cd6c7dc-8862-4d5b-81a2-05497095bdfc.mov"> |
 
+<br>
 
+| event key <br>code | expanding<br>cards  | faq | feedback<br>boxes |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209892746-d724f8bc-6105-49d7-8450-f45fc6c628b3.mov">| <video src="https://user-images.githubusercontent.com/106411997/209892749-0a3607f5-75d9-4bee-9195-41ccf3af13ef.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892754-a9c30e64-5324-4b5f-aba4-1166b3ec115e.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892762-fb4e0980-81cf-4eab-ba82-549e37dd6d3e.mov"> |
 
+<br>
 
-https://user-images.githubusercontent.com/106411997/209892746-d724f8bc-6105-49d7-8450-f45fc6c628b3.mov
-
-
-
-
-https://user-images.githubusercontent.com/106411997/209892749-0a3607f5-75d9-4bee-9195-41ccf3af13ef.mov
-
-
-
-
-
-https://user-images.githubusercontent.com/106411997/209892754-a9c30e64-5324-4b5f-aba4-1166b3ec115e.mov
+| github profile<br>card | GCF <br>checkboxes  | hidden widget<br>search | hoverboard |
+|----|---|-------|-----|
+| <video src="https://user-images.githubusercontent.com/106411997/209892767-67f4a6e1-6389-4686-9514-8cfd03427538.mov">| <video src="https://user-images.githubusercontent.com/106411997/209892771-7338e8c1-1386-4415-9fba-7240a172f499.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892774-ec0f037f-1510-4964-8ae7-d94cef5d4e7c.mov"> | <video src="https://user-images.githubusercontent.com/106411997/209892780-b1b6ee18-c5da-44e4-bfa3-ab17c90de947.mov"> |
 
 
 
 
 
-https://user-images.githubusercontent.com/106411997/209892762-fb4e0980-81cf-4eab-ba82-549e37dd6d3e.mov
 
 
-
-https://user-images.githubusercontent.com/106411997/209892767-67f4a6e1-6389-4686-9514-8cfd03427538.mov
-
-
-
-https://user-images.githubusercontent.com/106411997/209892771-7338e8c1-1386-4415-9fba-7240a172f499.mov
-
-
-
-
-https://user-images.githubusercontent.com/106411997/209892774-ec0f037f-1510-4964-8ae7-d94cef5d4e7c.mov
-
-
-
-
-https://user-images.githubusercontent.com/106411997/209892780-b1b6ee18-c5da-44e4-bfa3-ab17c90de947.mov
 
 
 
